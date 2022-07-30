@@ -1,0 +1,6 @@
+
+094 Database-Cursors-in-Postgres-Doc-
+https://www.postgresql.org/docs/current/plpgsql-cursors.html
+
+095 Source-Code-for-Database-Cursors
+https://github.com/hnasr/python_playground/tree/master/servervsclientcursor

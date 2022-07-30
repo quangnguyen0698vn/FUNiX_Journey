@@ -1,0 +1,111 @@
+
+Get all items from data.txt and add to the tail of the list sucessfully!
+
+|ID             |Title                         |Quantity       |Price          |
+|------------------------------------------------------------------------------|
+|0              |0                             |              0|            0.0|
+|1              |1                             |              1|            1.0|
+|10             |10                            |             10|           10.0|
+|4              |4                             |              4|            4.0|
+|5              |5                             |              5|            5.0|
+|P01            |Miliket                       |             10|            5.2|
+|P02            |Apple                         |              5|            4.3|
+|P03            |Sugar                         |             12|           25.1|
+|P04            |Book                          |              9|            5.2|
+|P05            |Rose                          |              7|           15.4|
+|P06            |a                             |              2|            2.0|
+|P07            |Beer                          |             11|           12.2|
+|a              |a                             |              3|            3.0|
+|b              |b                             |              6|            6.0|
+|c              |c                             |              5|            5.0|
+|------------------------------------------------------------------------------|
+
+Show all products in the list successfully!
+
+|ID             |Title                         |Quantity       |Price          |
+|------------------------------------------------------------------------------|
+|0              |0                             |              0|            0.0|
+|1              |1                             |              1|            1.0|
+|10             |10                            |             10|           10.0|
+|4              |4                             |              4|            4.0|
+|5              |5                             |              5|            5.0|
+|P01            |Miliket                       |             10|            5.2|
+|P02            |Apple                         |              5|            4.3|
+|P03            |Sugar                         |             12|           25.1|
+|P04            |Book                          |              9|            5.2|
+|P05            |Rose                          |              7|           15.4|
+|P06            |a                             |              2|            2.0|
+|P07            |Beer                          |             11|           12.2|
+|a              |a                             |              3|            3.0|
+|b              |b                             |              6|            6.0|
+|c              |c                             |              5|            5.0|
+|------------------------------------------------------------------------------|
+
+Show all products in the list successfully!
+
+Get all items from data.txt and add to the tail of the list sucessfully!
+
+|ID             |Title                         |Quantity       |Price          |
+|------------------------------------------------------------------------------|
+|0              |0                             |              0|            0.0|
+|1              |1                             |              1|            1.0|
+|10             |10                            |             10|           10.0|
+|4              |4                             |              4|            4.0|
+|5              |5                             |              5|            5.0|
+|P01            |Miliket                       |             10|            5.2|
+|P02            |Apple                         |              5|            4.3|
+|P03            |Sugar                         |             12|           25.1|
+|P04            |Book                          |              9|            5.2|
+|P05            |Rose                          |              7|           15.4|
+|P06            |a                             |              2|            2.0|
+|P07            |Beer                          |             11|           12.2|
+|a              |a                             |              3|            3.0|
+|b              |b                             |              6|            6.0|
+|c              |c                             |              5|            5.0|
+|------------------------------------------------------------------------------|
+
+Show all products in the list successfully!
+
+Get all items from data.txt and push to the stack sucessfully!
+
+|ID             |Title                         |Quantity       |Price          |
+|------------------------------------------------------------------------------|
+|c              |c                             |              5|            5.0|
+|b              |b                             |              6|            6.0|
+|a              |a                             |              3|            3.0|
+|P07            |Beer                          |             11|           12.2|
+|P06            |a                             |              2|            2.0|
+|P05            |Rose                          |              7|           15.4|
+|P04            |Book                          |              9|            5.2|
+|P03            |Sugar                         |             12|           25.1|
+|P02            |Apple                         |              5|            4.3|
+|P01            |Miliket                       |             10|            5.2|
+|5              |5                             |              5|            5.0|
+|4              |4                             |              4|            4.0|
+|10             |10                            |             10|           10.0|
+|1              |1                             |              1|            1.0|
+|0              |0                             |              0|            0.0|
+
+Show all products in the stack successfully!
+
+Get all items from data.txt and add to the queue successfully!
+
+|ID             |Title                         |Quantity       |Price          |
+|------------------------------------------------------------------------------|
+|0              |0                             |              0|            0.0|
+|1              |1                             |              1|            1.0|
+|10             |10                            |             10|           10.0|
+|4              |4                             |              4|            4.0|
+|5              |5                             |              5|            5.0|
+|P01            |Miliket                       |             10|            5.2|
+|P02            |Apple                         |              5|            4.3|
+|P03            |Sugar                         |             12|           25.1|
+|P04            |Book                          |              9|            5.2|
+|P05            |Rose                          |              7|           15.4|
+|P06            |a                             |              2|            2.0|
+|P07            |Beer                          |             11|           12.2|
+|a              |a                             |              3|            3.0|
+|b              |b                             |              6|            6.0|
+|c              |c                             |              5|            5.0|
+
+Show all products in the queue successfully!
