@@ -1,0 +1,3 @@
+# FUNiX_Journey
+
+This is the repo where I save part of (not 100% as there are many files) that I acquire while researching and studying... 
